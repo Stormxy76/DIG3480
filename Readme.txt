@@ -1,0 +1,3 @@
+Noshad's Sayeed John Lemon Project 
+
+Hi I have made John Lemon Project with a change minor and major side of the game with the speed being a bit more faster with the ghost and at the same time I've made The ghost catch you faster and they have a bit of a wider range to catch you the biggest challenge I have faced was the trying to get the camera's setup in the correct position took me a couple of tries but I finally got it to work I will be continuing to update this game very so often probably with new ideas of having maybe John Lemon being able to capture ghost instead of running away  
